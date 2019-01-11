@@ -1,0 +1,19 @@
+.form-title{
+    padding-top: 10%;
+}
+.form-title, .form-message, .form{
+    text-align: center;
+}
+.form-message{
+    padding-top: 5%;
+    font-size: 80%;
+}
+.form-input{
+    margin-top: 2%;
+}
+.form-inline{
+    display: inline-block;
+}
+.info-hide{
+    display: none;
+}
